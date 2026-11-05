@@ -1,0 +1,19 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers générés par PyInstaller
+build/
+dist/
+*.spec
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers système Windows
+Thumbs.db
+Desktop.ini
